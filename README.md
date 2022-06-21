@@ -16,6 +16,8 @@ Then, run the following commands in the terminal:
 (hit enter, let it run)
 
 
+download `main.ipynb` from above (click the file, click `raw`, then right click and save as `main.ipynb`)
+
 then,
 type:
 `jupyter notebook` and then drag the `main.ipynb` file onto the terminal)
