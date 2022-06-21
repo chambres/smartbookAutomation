@@ -2,12 +2,19 @@
 Randomly picks smartbook answers for you with speed.
 
 First, download the latest Python version from https://www.python.org/downloads/.
-#MAKE SURE YOU ADD PYTHON TO PATH!!
+
+# MAKE SURE YOU ADD PYTHON TO PATH!!
+
 Then, run the following commands in the terminal:
+
 `pip install selenium`
+
 (hit enter, let it run)
+
 `pip install jupyter`
+
 (hit enter, let it run)
+
 
 then,
 type:
