@@ -20,7 +20,7 @@ then,
 type:
 `jupyter notebook` and then drag the `main.ipynb` file onto the terminal)
 
-so like: `jupyter notebook "C:\users\rahul\downloads\main.ipynb")`
+so like: `jupyter notebook "C:\users\rahul\downloads\main.ipynb"`
 
 then, follow the instructions in the NOTEBOOK that opens.
 
